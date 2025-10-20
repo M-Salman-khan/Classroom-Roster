@@ -47,7 +47,7 @@ A streamlined MERN-stack classroom manager that lets you add students, fetch the
 ## 📁 Project Structure
 
 ```
-MERN Project/
+Classroom-Roster/
 ├── client/                # React + Tailwind frontend (Vite)
 │   ├── src/App.jsx        # Main UI logic
 │   ├── src/main.jsx       # App bootstrap
